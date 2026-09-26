@@ -14,6 +14,22 @@ The project demonstrates task automation using Python. It automatically finds al
 - Displays the names of moved files
 - Uses Python file and folder handling
 
+## Description
+
+CodeAlpha Task Automation is a Python-based file management project that automatically identifies JPG image files from a source folder and moves them to a destination folder.
+
+This project reduces repetitive manual file-management work and demonstrates basic task automation using Python.
+
+## How to Run
+
+1. Place JPG files inside the `source_folder`.
+2. Open the project folder in VS Code.
+3. Open the terminal.
+4. Run the following command:
+
+```bash
+python task_automation.py
+
 ## Technologies Used
 
 - Python
